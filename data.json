@@ -2,5 +2,10 @@
   "name": "Zelta Live",
   "version": "Beta 0.1.0",
   "versionCode": 0,
-  "notify": []
+  "notify": [
+    {
+      "title": "Celebrating the 50th Anniversary of the Liberation of South Vietnam",
+      "data": "April 30th marks a historic milestone, remembering the glorious victory of the Vietnamese people in their journey to regain independence and national reunification.\nOn the occasion of the 50th anniversary, we look back to our roots and honor the heroes who sacrificed for the independence – freedom of our nation.\n\nThis is not only a time for pride, but also an opportunity for today's generation to continue and promote the tradition of patriotism, building a country that is increasingly prosperous and civilized."
+    }
+  ]
 }
