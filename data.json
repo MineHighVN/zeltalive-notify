@@ -2,6 +2,9 @@
   "name": "Zelta Live",
   "version": "Beta 0.1.0",
   "versionCode": 0,
+  "style": {
+    "login_background": "https://raw.githubusercontent.com/MineHighVN/zeltalive-notify/refs/heads/main/images/250425-30-th4-1975.png"
+  },
   "notify": [
     {
       "title": "Celebrating the 50th Anniversary of the Liberation of South Vietnam",
