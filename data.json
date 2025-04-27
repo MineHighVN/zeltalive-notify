@@ -1,7 +1,8 @@
 {
   "name": "Zelta Live",
-  "version": "Beta 0.1.0",
-  "versionCode": 0,
+  "version": "Beta 0.2.50",
+  "downloadUrl": "https://github.com/MineHighVN/zeltalive-notify/releases/download/v0.2.50/ZeltaSetup-0.2.50.exe",
+  "versionCode": 1,
   "style": {
     "login_background": "https://raw.githubusercontent.com/MineHighVN/zeltalive-notify/refs/heads/main/images/250425-30-th4-1975.png"
   },
