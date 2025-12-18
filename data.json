@@ -2,5 +2,11 @@
   "name": "Overlix",
   "version": "Beta 1.2.2",
   "downloadUrl": "https://github.com/MineHighVN/zeltalive-notify/releases/download/v1.2.2/setup_Overlix_v1.2.2.exe",
-  "versionCode": 16
+  "versionCode": 16,
+  "platform": {
+    "android": {
+      "minVersionCode": 50,
+      "latestVersionName": "Beta 1.1.0"
+    }
+  }
 }
